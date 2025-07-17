@@ -1,0 +1,40 @@
+Vessel on the move
+Speed .7
+DP can increase vessel speed .7
+Vessel speed .7
+Roger .5
+.7 vessel speed
+We can stop payout until 200 meters
+50 meter before stop
+1 kilometer before
+ROTO 200 quadran stop
+Vessel position
+Graphnale on the move
+DP reduce .5
+DP reduce .3
+Reduce .3
+Speed .3
+DP slowing down to stop, slowing down to stop
+Vessel stop
+DP prepare track for moving backward
+DP start move backward .5
+Start to backward
+Stand by for payout
+On the move
+DP increase .6
+Increase .6
+Vessel speed .6
+Connection of water
+Tension 1.6
+DP can increase .7
+Increase .7
+ROTO 130
+DP increase zero .8
+Payout one
+Vessel speed .8
+Water depth 80 A7 boleh sampai 75 dulu
+65 nanti stop yah
+DP please stand by move forward .5
+Stand by for payout for draft
+DP get start move forward .5, start move forward speed .5
+Start payout .5
