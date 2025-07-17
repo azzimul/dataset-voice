@@ -1,0 +1,10 @@
+ROTO 100
+Go back .8
+Alpha angle downside 6 o clock
+Vessel speed .8
+ROTO 80
+Vessel off seabed
+DP Slowdown .3
+ROTO 50
+Ship to cable line per meter
+Prepare check to singapore side
